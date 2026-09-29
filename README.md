@@ -1,15 +1,19 @@
+<h1 align="center">Hi, I'm Nguyen Duc Toan!</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DucToan137&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DucToan137&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DucToan137&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## About Me 🚀
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DucToan137&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+### A fullstack enthusiast, focusing on web development.
 
----
-[![](https://visitcount.itsvg.in/api?id=DucToan137&icon=0&color=0)](https://visitcount.itsvg.in)
+I’m currently a student at the VNUHCM - University of Science with a strong passion for software engineering. I’m actively working towards a career as a Fullstack Developer, dedicated to mastering both client and server-side technologies. Every day, I spend time improving my skills and gaining hands-on experience to build impactful, complete applications. Maybe I'm not able to answer every question yet, but I know how to find the answer—and I will.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tech Stack 💻
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,dart,java,js,ts,python,html,css,tailwind,react,nextjs,express,nodejs,spring,flutter,postgres,mongodb,docker,postman&perline=10&theme=dark" />
+</div>
+
+## GitHub Stats 📊
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=DucToan137&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
+</div>
